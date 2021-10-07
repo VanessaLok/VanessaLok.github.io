@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Vanessa's Blog</title>
+    <style>
+      body{
+        width:960px;
+        margin-left:auto;
+        margin-right:auto;
+        color:#000000;
+        border-width:1px;
+        border-style:solid;
+        border-color:rgb(25,25,112);
+        border-radius:5px;
+        padding-left:20px;
+        padding-right:20px;
+        padding-bottom:20px;
+      }
+
+      .header{
+        font-size:50px;
+        text-align:center;
+        font-weight:900;
+      }
+
+      .intro{
+        border-width:1px;
+        border-style:solid;
+        border-color:rgb(25,25,112);
+        border-radius:5px;
+        padding-left:50px;
+      }
+      .pintro{
+
+        float:right;
+        padding-right:500px;
+        padding-top:20px;
+        padding-bottom:20px;
+      }
+      .intro-end{
+        clear:both;
+      }
+
+      .love{
+        border-width:1px;
+        border-style:solid;
+        border-color:rgb(25,25,112);
+        border-radius:5px;
+        padding-right:50px;
+        padding-left:50px;
+      }
+
+      .picture{
+        border-width:1px;
+        border-style:solid;
+        border-color:rgb(25,25,112);
+        border-radius:5px;
+        padding-right:50px;
+        padding-left:50px;
+        padding-bottom:20px;
+      }
+    </style>
+  </head>
+  <body>
+    <body background="picture/pbackground2.jpg">
+    <div class="header">Welcome to Vanessa's Blog</div>
+    <div class="intro">
+      <img class="pintro" src="picture/pintro.jpg" alt="fail" width="100px">
+      <h3>自我介紹</h3>
+      <p>我叫陸巧誼，通常人們叫我Vanessa。<br>口頭襌: whatever,管他呢~<br>夢想是：做條有錢的咸魚</p>
+      <p>日常喜好：動漫、音樂和男友<br>願望：願世界一切安好</p>
+      <div class="intro-end"></div>
+    </div>
+    <div class="love">
+      <h3>我的興趣</h3>
+      <ol>
+        <li><b>喜歡的音樂人：</b>久石讓、Avicii、Kokia、華晨宇和周深</li>
+        <li><b>動漫：</b>喜歡死神、黑執事(這是一個關於打一輩子白工的惡魔的故事)、魯魯修、小櫻、夏目、巴衛、約夢(不過動漫第2季崩了，建議不看，建議看完第一季後直奔動漫)、貓的報恩、崖上的波兒、銀魂、巨人、東京喰種(第3,4季沒崩!!)、瑩火之森(該死的劇情殺)、我被最想擁抱男人威脅了(hhhhhhh)、野良神、FREE(看肌肉的)、時光代理人(我站黑白)、來自新世界、紫羅蘭永恆花園、來自風平浪靜的明天、四月的謊言、你的名字、天氣之子......</li>
+        <li><b>喜歡的電影：</b>The Avengers, Harry Potter(童年回憶呢~~)，你的名字、天氣之子......</li>
+      </ol>
+    </div>
+    <div class="picture">
+      <h3>以下是我的圖片</h3>
+      <img class="p1" src="picture/p1.png" alt="fail" width="200px">
+      <img class="p2" src="picture/p2.png" alt="fail" width="200px">
+    </div>
+  </body>
+</html>
