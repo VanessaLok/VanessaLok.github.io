@@ -10,10 +10,6 @@ body{
   padding-left:20px;
   padding-right:20px;
   padding-bottom:20px;
-  background:url(picture/pbackground2.jpg) center center fixed no-repeat;
-  -webkit-background-size:cover;
-  -moz-background-size:cover;
-  -o-background-size:cover;
   background-size:cover;
 }
 
